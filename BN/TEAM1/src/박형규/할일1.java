@@ -1,6 +1,6 @@
-package pack;
+package 박형규;
 
-public class 박형규 {
+public class 할일1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
